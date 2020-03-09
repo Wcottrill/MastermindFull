@@ -1,6 +1,7 @@
 #ifndef GUESS_H
 #define GUESS_H
-
+//This is my work
+//Wesley Cottrill
 #include <ctime>
 #include <utility>
 using namespace std;
